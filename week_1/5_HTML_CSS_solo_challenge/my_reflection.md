@@ -1,6 +1,7 @@
 ## 5. [HTML/CSS Solo Challenge](5_HTML_CSS_solo_challenge/readme.md) Reflection
 
 * What questions did you ask during this challnge? What resources did you find to help you answer them?  
+Everything pertaining to stylesheets I've found extremely troublesome. As I havent fully completed this yet, I'm not fully ready to answer all of these questions.
 * What concepts are you having trouble with, or did you just figure something out? If so, what?  
 * Did you learn any new skills or tricks?
 * How confident are you with each of the Learning Competencies for this challenge? 
