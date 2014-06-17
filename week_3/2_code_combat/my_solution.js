@@ -14,3 +14,6 @@
  
 // Reflection:
 // Write your reflection here.
+LOVED this excercise. Literally the perfect thing to start picking this up with. 
+Going to see if they have more sections past beginner that aren't multiplayer.
+Had a lot of fun going through this and definitely my preferred method of learning!
