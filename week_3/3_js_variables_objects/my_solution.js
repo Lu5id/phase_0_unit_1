@@ -4,7 +4,7 @@
 
 
 // Pseudocode
-// 
+// secretNumber set to some value 
 // 
 // 
 // 
@@ -12,7 +12,16 @@
 
 // __________________________________________
 // Write your code below.
+var secretNumber=5;
+secretNumber=7;
 
+var password="4";
+password="just open the door";
+
+var allowedIn=true;
+allowedIn=false;
+
+var members=["John","P", "Q", "Mary"];
 
 
 
