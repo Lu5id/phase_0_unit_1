@@ -1,23 +1,5 @@
-[Week 2 Home](./)
+The prospect of failure scares the hell out of me. Failures not something I'm used to, I've been extremely "lucky" all my life being successful at most everything I've tried my hand at. I've always been a believer in the dogma that, "things will work out" and up to this point that's held true. It isn't until I've started working through the course work that some of my beliefs may have been shaken.
 
-# U1.W2: Cultural Assignment
+I've always been the kind of person that's skated by in school, I've always gotten decent grades, and gone to good schools with minimum effort. This is the point in my life I've realized I need to commit to something fully, and the prospect of failure is daunting, I've invested heavily into the success of this program and failing would be the worst case of events for me.
 
-## Learning Competencies
-- Practice sharing vulnerability with the people in your cohort
-- Identify your biggest fear
-- Describe what you would tell your friend if they shared a fear with you. 
-
-## Release 0: Consider the question: 
-**What scares you the most about being at DBC?**
-
-## Release 1: Email your cohort
-Write an email to your cohort using your local cohort mailing list (available on your cohort page in Socrates under the name) that answers this question. Use the subject "Cultural Assignment" if you are the first person. Everyone should reply to the original thread. 
-If you are the second or later, be sure to **REPLY ALL** with your response. Be sure to do this by **Wednesday**. 
-
-## Release 2: Reply to your cohort-mates
-Starting **Thursday**, take a look at your cohort-mates responses and choose one to respond to. Pretend your best friend is saying that to you. How would you respond? Make sure to direct your response to that person. Reply all to the original thread with your response. 
-
-## Release 3: Read your cohort-mates' responses!
-
-## Release 4: Submit
-You'll be asked to submit your responses on the weekly submission form. 
+My biggest fear is having a 9-5 job. I started my own small business in college and that's all I want to do, my dream is to micromanage multiple small business by the time I'm 30, the idea of being my own boss consumes me. While I had a good amount of success, I realized that working in the food service industry, or a cleaning service or whatever kind've traditional startup business could be achieved by anyone. And when I think of the 'modern day entrepreneur' I think of someone in the tech industry. My hope is that I can complete this course, and gain some insight into the industry that I can use towards my own ends. Failing at DBC would mean an incredible setback in fulfilling my own personal aspirations. 
