@@ -1,1 +1,15 @@
-/* include your css here */
+.header{
+     border: 2px;
+     border-color: black;
+     background-color: red;
+ }
+ 
+ .Rangers{
+     float: left;
+     padding: 0px;
+     margin: 0px;
+ }
+ .Kings{
+     float: right;
+     
+ }
