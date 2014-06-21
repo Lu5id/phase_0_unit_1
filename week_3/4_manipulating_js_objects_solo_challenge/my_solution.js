@@ -8,9 +8,9 @@ var terah = {
   name: "Terah",
   age: 32,
   height: 66,
-  weight: 130,
+  weight: 125,
   hairColor: "brown",
-  eyeColor: "brown"
+  spouse: "adam",
 }
 /* Pseudocode Section - write pseudocode for each challenge below.
 1. Define a variable adam and use object literal notation to assign this variable 
@@ -45,6 +45,11 @@ var terah = {
 
 // __________________________________________
 // Write your code below.
+
+var adam = {
+  name: "Adam",
+  spouse: "terah"
+}
 
 
 
