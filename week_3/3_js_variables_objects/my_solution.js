@@ -5,7 +5,13 @@
 
 // Pseudocode
 // secretNumber set to some value 
-// 
+// set secretNumber to 7, overwrites above line 
+// set password to 4
+//set password to "just open the door", overwrites above line
+//define a variable "allowedIn" set its value to true
+//alter allowedIn value to false, overwrites above line
+// Create an array members with 4 elements with John being the first
+//and Mary being the second
 // 
 // 
 
@@ -30,14 +36,15 @@ var members=["John","P", "Q", "Mary"];
 
 // __________________________________________
 // Refactored Code: Include a refactored version (or justification of your original code) here. 
-
+//Dont think anything I wrote would have to be refactored
 
 
 
 
 // __________________________________________
 // Reflection: Use the reflection guidelines to write a reflection here. 
-// 
+// Pretty straightforward introduction into creating variables
+//and objects in JS, definitely a learning curve with my 0 background though.
 // 
 // 
 // 

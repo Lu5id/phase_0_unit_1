@@ -10,8 +10,8 @@ var terah = {
   height: 66,
   weight: 125,
   hairColor: "brown",
-  spouse: "adam",
-}
+};
+
 /* Pseudocode Section - write pseudocode for each challenge below.
 1. Define a variable adam and use object literal notation to assign this variable 
    the value of a JavaScript Object object with no properties.
@@ -45,14 +45,30 @@ var terah = {
 
 // __________________________________________
 // Write your code below.
-
 var adam = {
   name: "Adam",
-  spouse: "terah"
-}
+};
 
+terah.spouse = adam;
 
+adam.spouse = terah;
 
+terah.children = {
+  carson: 
+  {
+    name: "Carson"
+  },
+  carter:
+  {
+    name: "Carter"
+  },
+  colton:
+  {
+    name: "Colton"
+  }
+};
+
+adam.children = terah.children
 
 
 
@@ -60,7 +76,11 @@ var adam = {
 
 // __________________________________________
 // Reflection: Use the reflection guidelines
-// 
+// the terah.spouse and adam.spouse line took me a while
+//to figure it out. Additionally when creating the terah.children
+// it took me a while to realize i could create objects inside of 
+//objects. Luckily by looking around at other samples of javascript
+//I was able to piece it together.
 // 
 // 
 // 
